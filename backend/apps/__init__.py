@@ -1,0 +1,1 @@
+"""FlightFix domain apps."""
